@@ -23,22 +23,22 @@ hu.zhongyu#outlook.com//(使用@替换#)
 ## 项目经历
 ### 基于ssm的房租管理系统
 #### 实现功能
-##### 房东登陆注册
-##### 查看编辑房源、合同信息
-##### 房源同小区、同城市租金趋势可视化
+房东登陆注册
+查看编辑房源、合同信息
+房源同小区、同城市租金趋势可视化
 #### 使用技术
-##### SSM框架
-##### Bootstrap框架
-##### H2数据库
-##### Maven管理项目
-##### Echarts数据可视化工具
+SSM框架
+Bootstrap框架
+H2数据库
+Maven管理项目
+Echarts数据可视化工具
 ### 使用python爬虫记录微博热搜
 #### 实现功能
-##### 爬取微博热搜榜top50
+爬取微博热搜榜top50
 #### 使用技术
-##### python
-##### selenium
-##### beautiful soup
+python
+selenium
+beautiful soup
 ## 工作经历
 ### 亚信安全
 #### 部门：
