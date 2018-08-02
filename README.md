@@ -1,4 +1,5 @@
 # 简历_Java后端开发
+[下载简历PDF版](https://github.com/huzoyu/Resume/raw/master/%E7%AE%80%E5%8E%86_Java%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91_2018%E5%B1%8A_md2pdf.pdf)
 ## 个人资料  
 - 姓名：胡忠宇 
 - 性别：男 
